@@ -6,6 +6,7 @@ With a generalist and multidisciplinary profile, I have extensive experience in 
 
 ## Key Skills
 - **Python** (EDA, Machine Learning, Web Scraping)
+- **Apache Beam** for building scalable and efficient data pipelines;
 - **SQL and NoSQL** for database manipulation
 - **Google Cloud** for data architecture and cloud computing
 - **GitHub** for version control and collaboration
